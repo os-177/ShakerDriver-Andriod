@@ -64,6 +64,6 @@ flutter {
 }
 
 dependencies {
-    classpath 'com.android.tools.build:gradle:8.0.0' // أو أحدث
-    classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.8.20" // تأكد من توافق هذا الرقم مع إصدار الـ Gradle
+    classpath 'com.android.tools.build:gradle:8.0.0'
+    classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.8.20"
 }
