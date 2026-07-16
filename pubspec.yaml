@@ -25,7 +25,7 @@ dependencies:
   barcode_widget: ^2.0.4
 
   # تنسيق التواريخ بالعربي (لعرض تاريخ إنشاء طلبات الصيانة)
-  intl: 0.18.1
+  intl: ^0.20.2
 
   # حفظ كوكي جلسة PHP (PHPSESSID) بين الطلبات
   shared_preferences: ^2.2.3
